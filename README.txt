@@ -31,9 +31,9 @@ o código está dividido em 4 arquivos:
 
 - damas.py, contem a classe que lida com a execução de lances, com o armazenamento do estado do tabuleiro, com a criação da lista de lances legais e verificação do resultado da partida
 
-- clock.py, contem a classe que cria, armazena, atualiza e incrementa o tempo do 	relógio
+- clock.py, contem a classe que cria, armazena, atualiza e incrementa o tempo do relógio
 
-- bot.py, contem duas classes, uma pro bot fácil que faz lances aleatórios, e outra pro bot difícil que 	vasculha pelos lances possíveis procurando a melhor alternativa
+- bot.py, contem duas classes, uma pro bot fácil que faz lances aleatórios, e outra pro bot difícil que vasculha pelos lances possíveis procurando a melhor alternativa
 
 - game.py, faz o jogo rodar lidando com as bibliotecas e ilustrando a janela com o pygame
 
